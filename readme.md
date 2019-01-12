@@ -1,4 +1,4 @@
-# OpenTrade is the best opensource cryptocurrency exchange!
+# SumExchange is the best opensource cryptocurrency exchange!
 
 Live version: https://trade.multicoins.org/
 
