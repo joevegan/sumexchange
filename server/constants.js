@@ -1,12 +1,12 @@
 'use strict';
 
-const SUPPORT_EMAIL = 'support@email.com';
-const NOREPLY_EMAIL = 'no-reply@email.com';
+const SUPPORT_EMAIL = 'sumcoinexchange@gmail.com';
+const NOREPLY_EMAIL = 'no-reply@sumexchange.com';
 const DOMAIN = 'localhost';
 
-const MAILER_NAME = 'OpenTrade Mailer';
-const START_MESSAGE = 'OpenTrade started!';
-const OPENTRADE = "OpenTrade";
+const MAILER_NAME = 'SumExchange Mailer';
+const START_MESSAGE = 'SumExchange started!';
+const OPENTRADE = "SumExchange";
 
 exports.ALLOW_EMAIL_CHANGING = true;
 
