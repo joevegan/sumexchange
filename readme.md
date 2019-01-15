@@ -45,9 +45,9 @@ exports.walletspassphrase = {
 **After, you can run exchange**
 
 ```
-cd ~/opentrade/databaseServer
+cd ~/sumexchange/databaseServer
 [sudo] forever start main.js
-cd  ~/opentrade/server
+cd  ~/sumexchange/server
 [sudo] forever start main.js
 ```
 
